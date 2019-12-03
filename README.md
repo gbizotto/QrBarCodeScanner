@@ -1,5 +1,5 @@
 # QrBarCodeScanner
-Example project of some Android Rugged QR/bar code readers.
+Sample code in Kotlin for Bluebird BM180 and Chainway C6000 Android Rugged QR/bar code readers. The list can grow.
 
 The goal of this project is to help developers to integrate to some devices QR or bar code scanners.
 
